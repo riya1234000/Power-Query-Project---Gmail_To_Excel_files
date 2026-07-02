@@ -27,6 +27,8 @@ Google Apps Script
 Gmail Services
 JSON API
 ETL Concepts
-<img src="[https://github.com/riya1234000/Excel-Super-Store-Sales-Dashboard/blob/71aecc44563d279e41c8d283cd83cb205549065b/Screenshot%202026-03-23%20025409.png]" alt="Image Description" width="1000">
+
+
+<img src="[Screenshot 2026-07-02 163855.png]" alt="Image Description" width="1000">
 
 This project demonstrates skills in Data Analytics, Power Query, API Integration, Excel Automation, Data Transformation, Business Intelligence, and Workflow Automation. It serves as a practical example of building real-world automation solutions that reduce manual effort, improve productivity, and create scalable reporting processes for business operations. It is an excellent portfolio project for aspiring Data Analysts, Business Intelligence Developers, and Excel Automation Specialists.
